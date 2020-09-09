@@ -6,7 +6,7 @@
   "author": "Hiya",
   "license": "MIT",
   "bin": {
-    "hiya-game": "./bin/index.js"
+    "hiya-game": "bin/index.js"
   },
   "scripts": {
     "start": "node bin/index.js"
@@ -16,5 +16,21 @@
     "commander": "^2.19.0",
     "inquirer": "^7.0.0",
     "readline": "^1.3.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiLiangKai/node-game.git"
+  },
+  "keywords": [
+    "node",
+    "game"
+  ],
+  "bugs": {
+    "url": "https://github.com/LiLiangKai/node-game/issues"
+  },
+  "homepage": "https://github.com/LiLiangKai/node-game#readme"
 }
