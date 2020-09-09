@@ -1,0 +1,20 @@
+{
+  "name": "@hiya/node-game",
+  "version": "0.0.1",
+  "description": "node开发的终端小游戏",
+  "main": "index.js",
+  "author": "Hiya",
+  "license": "MIT",
+  "bin": {
+    "hiya-game": "./bin/index.js"
+  },
+  "scripts": {
+    "start": "node bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "inquirer": "^7.0.0",
+    "readline": "^1.3.0"
+  }
+}
