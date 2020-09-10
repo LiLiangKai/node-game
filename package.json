@@ -1,6 +1,6 @@
 {
   "name": "@lilk620/node-game",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "node开发的终端小游戏",
   "main": "index.js",
   "author": "Hiya",
