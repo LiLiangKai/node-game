@@ -9,7 +9,8 @@
     "hiya-game": "bin/index.js"
   },
   "scripts": {
-    "start": "node bin/index.js"
+    "start": "node bin/index.js",
+    "publish": "npm publish ."
   },
   "dependencies": {
     "chalk": "^2.4.2",
